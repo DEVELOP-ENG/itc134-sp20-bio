@@ -1,1 +1,9 @@
-This is where I'll put my info for my bio
+Noel S. Eng's Bio:
+
+Who you are
+My name is Noel S. Eng, and I'm an active Year Up student enrolled in the development and testing program.
+I'm pursuing a career as a developer, and also enrolled to complete a bachelors in Computer Science.
+
+
+What makes you unique: Tell a story
+Where they can go to learn more about you
